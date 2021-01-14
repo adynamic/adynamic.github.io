@@ -1,0 +1,11 @@
+*{font-family: 'Langar', cursive;}
+
+#jeelectures{transition:all .4s ease-in-out;}
+#jeechapters button{border-color:transparent;font-size:25px;transition:all .4s ease-in-out;}
+#jeechapters button:hover{font-size:30px;}
+#jeelectures div button{border-color:transparent;font-size:25px;transition:all .4s ease-in-out;}
+#jeelectures div button:hover{font-size:30px;}
+#videogoeshere iframe{width:100%;}
+#boardmatrixlec{display:none;}
+.alllectures{display:none;}
+
